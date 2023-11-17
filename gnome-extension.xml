@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/Shell/Extensions/supergfxctl-gex/icons/scalable">
+    <file>dgpu-active.svg</file>
+    <file>dgpu-off.svg</file>
+    <file>dgpu-suspended.svg</file>
+    <file>gpu-asusmuxdiscreet-active.svg</file>
+    <file>gpu-asusmuxdiscreet.svg</file>
+    <file>gpu-compute-active.svg</file>
+    <file>gpu-compute.svg</file>
+    <file>gpu-egpu-active.svg</file>
+    <file>gpu-egpu.svg</file> 
+    <file>gpu-hybrid-active.svg</file>
+    <file>gpu-hybrid.svg</file>
+    <file>gpu-integrated-active.svg</file>
+    <file>gpu-integrated.svg</file>
+    <file>gpu-nvidianomodeset-active.svg</file>
+    <file>gpu-nvidianomodeset.svg</file>
+    <file>gpu-vfio-active.svg</file>
+    <file>gpu-vfio.svg</file>
+    <file>reboot.svg</file>
+  </gresource>
+</gresources>
